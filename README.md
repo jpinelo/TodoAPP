@@ -2,4 +2,4 @@
 
 Todo manager. An appplication to create/edit/delete todos.
 
-Practice exercise. 
+Practice exercise with Genie.
